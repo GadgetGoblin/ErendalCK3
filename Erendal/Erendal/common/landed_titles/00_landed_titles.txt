@@ -11,7 +11,7 @@ e_maghreb = {
 		if = {
 			limit = {
 				OR = {
-					culture = culture:baranis
+					culture = culture:drekki
 				}
 			}
 			add = @correct_culture_primary_score
@@ -27,7 +27,7 @@ e_maghreb = {
 			if = {
 				limit = {
 					OR = {
-						culture = culture:baranis
+						culture = culture:drekki
 					}
 				}
 				add = @correct_culture_primary_score

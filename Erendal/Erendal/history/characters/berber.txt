@@ -1,7 +1,7 @@
 ﻿20842 = {
 	name = "Guanarigato"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166432
 	1039.1.1 = {
@@ -15,7 +15,7 @@
 166423 = {
 	name = "Guanareme"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	831.1.1 = {
 		birth = "831.1.1"
@@ -28,7 +28,7 @@
 166424 = {
 	name = "AN_aterve"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166423
 	850.1.1 = {
@@ -42,7 +42,7 @@
 166425 = {
 	name = "Zonzamas"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166424
 	867.1.1 = {
@@ -56,7 +56,7 @@
 166426 = {
 	name = "TitaN_e"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166425
 	890.1.1 = {
@@ -70,7 +70,7 @@
 166427 = {
 	name = "Ayoze"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166426
 	911.1.1 = {
@@ -84,7 +84,7 @@
 166428 = {
 	name = "Dardamo"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166427
 	936.1.1 = {
@@ -98,7 +98,7 @@
 166429 = {
 	name = "Betzenuhya"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166428
 	955.1.1 = {
@@ -112,7 +112,7 @@
 166430 = {
 	name = "GuardafI_a"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166429
 	977.1.1 = {
@@ -126,7 +126,7 @@
 166431 = {
 	name = "Imobach"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166430
 	994.1.1 = {
@@ -140,7 +140,7 @@
 166432 = {
 	name = "AdxoN_a"
 	dynasty = 100848
-	religion = "west_african_pagan"
+	religion = "human_ensi_worship"
 	culture = drekki
 	father = 166431
 	1017.1.1 = {

@@ -3,6 +3,6 @@
 ###c_canarias
 1 = {		#GRAN CANARIA
 	culture = drekki
-	religion = west_african_pagan
+	religion = human_ensi_worship
 	holding = tribal_holding
 }

@@ -12,7 +12,7 @@ easteregg_johan_andersson = {
 	stewardship = 6
 	learning = 5
 
-	religion = "norse_pagan"
+	religion = "human_ensi_worship"
 	culture = "drekki"
 
 	trait = education_learning_3
