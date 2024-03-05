@@ -1,0 +1,49 @@
+﻿drekki = {
+	color = armenian
+	
+	ethos = ethos_courtly
+	heritage = heritage_taelic
+	language = language_taelic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_zealous_people
+		tradition_fervent_temple_builders
+
+	}
+	
+	name_list = name_list_drekki
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}
+
+taelic = {
+	color = greek
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_taelic
+	language = language_taelic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_formation_fighting
+	}
+	
+	name_list = name_list_taelic
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}
+
