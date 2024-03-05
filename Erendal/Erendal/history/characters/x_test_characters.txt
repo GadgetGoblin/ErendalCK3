@@ -6,7 +6,7 @@
 	# intrigue = 5
 	# stewardship = 5
 	# religion = "catholic"
-	# culture = anglo_saxon
+	# culture = drekki
 	# trait = lazy
 	
 	# 1022.1.1 = {
@@ -25,7 +25,7 @@
 	# intrigue = 5
 	# stewardship = 5
 	# religion = "catholic"
-	# culture = anglo_saxon
+	# culture = drekki
 	# trait = gregarious
 	
 	# 1022.1.1 = {
@@ -44,7 +44,7 @@
 	# intrigue = 5
 	# stewardship = 5
 	# religion = "catholic"
-	# culture = anglo_saxon
+	# culture = drekki
 	# trait = arbitrary
 	# trait = arrogant
 	# trait = education_martial_3
@@ -65,7 +65,7 @@
 	# intrigue = 5
 	# stewardship = 5
 	# religion = "catholic"
-	# culture = anglo_saxon
+	# culture = drekki
 	# trait = arbitrary
 	# trait = arrogant
 	# trait = craven
@@ -86,7 +86,7 @@
 	# intrigue = 5
 	# stewardship = 5
 	# religion = "catholic"
-	# culture = anglo_saxon
+	# culture = drekki
 	# trait = brave
 	
 	# 1022.1.1 = {
@@ -105,7 +105,7 @@
 	# intrigue = 5
 	# stewardship = 5
 	# religion = "catholic"
-	# culture = anglo_saxon
+	# culture = drekki
 	# trait = arbitrary
 	
 	# 1022.1.1 = {
@@ -124,7 +124,7 @@
 	# intrigue = 5
 	# stewardship = 5
 	# religion = "catholic"
-	# culture = anglo_saxon
+	# culture = drekki
 	# trait = arbitrary
 	# trait = arrogant
 	# trait = education_martial_3
@@ -145,7 +145,7 @@
 	# intrigue = 5
 	# stewardship = 5
 	# religion = "catholic"
-	# culture = anglo_saxon
+	# culture = drekki
 	# trait = arbitrary
 	# trait = arrogant
 	# trait = education_martial_3
