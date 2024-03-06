@@ -1,0 +1,5 @@
+﻿# Defines map panning size
+NCamera = {
+    PANNING_WIDTH = 4096
+    PANNING_HEIGHT = 2048
+}

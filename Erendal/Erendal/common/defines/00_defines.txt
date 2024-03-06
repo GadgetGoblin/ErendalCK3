@@ -1,0 +1,8 @@
+﻿
+#Defines map size
+NJominiMap = {
+    WORLD_EXTENTS_Y = 51
+    WORLD_EXTENTS_X = 4095
+	WORLD_EXTENTS_Z = 2047
+    WATERLEVEL = 3.8
+}
