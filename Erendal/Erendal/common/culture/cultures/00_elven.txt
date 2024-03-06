@@ -11,6 +11,7 @@
 		tradition_philosopher_culture
 		tradition_refined_poetry
 		tradition_sacred_groves
+		tradition_elven_military
 	}
 	
 

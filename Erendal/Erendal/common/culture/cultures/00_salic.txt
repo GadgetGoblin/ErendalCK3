@@ -7,6 +7,7 @@
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_frequent_festivities
+		tradition_salic_military
 	}
 	
 	dlc_tradition = {
@@ -40,7 +41,7 @@ crezin = {
 		tradition_mountaineer_ruralism
 		tradition_hard_working
 		tradition_castle_keepers
-		tradition_life_is_just_a_joke
+		tradition_salic_military
 	}
 	
 	name_list = name_list_salic
@@ -66,7 +67,7 @@ polish = {
 	language = language_salic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_hussar
+		tradition_salic_military
 		tradition_xenophilic
 	}
 	
@@ -99,7 +100,7 @@ polabian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hereditary_hierarchy
-		tradition_hussar
+		tradition_salic_military
 		tradition_stalwart_defenders
 	}
 	

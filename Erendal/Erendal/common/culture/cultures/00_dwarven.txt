@@ -11,6 +11,7 @@
 		tradition_mountain_homes
 		tradition_staunch_traditionalists
 		tradition_stalwart_defenders
+		tradition_dwarven_military
 	}
 	
 
@@ -45,6 +46,7 @@ ambronst = {
 		tradition_mountain_homes
 		tradition_staunch_traditionalists
 		tradition_stalwart_defenders
+		tradition_dwarven_military
 	}
 	
 
