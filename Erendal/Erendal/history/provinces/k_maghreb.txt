@@ -2,7 +2,7 @@
 ##d_canarias ###################################
 ###c_canarias
 1 = {		#GRAN CANARIA
-	culture = baranis
-	religion = west_african_pagan
+	culture = drekki
+	religion = human_ensi_worship
 	holding = tribal_holding
 }

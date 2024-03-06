@@ -1,0 +1,38 @@
+﻿northmen = {
+	color = norse
+	# T_ 222 þ 254 Ð 208 T_ 240 E_
+	
+	ethos = ethos_bellicose
+	heritage = heritage_northmen
+	language = language_northern
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_things
+	}
+	
+
+	
+	# FP1 Traditions
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+
+	
+	name_list = name_list_northmen
+	
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
+	ethnicities = {
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
+	}
+}
+
+

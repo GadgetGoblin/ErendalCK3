@@ -1,0 +1,31 @@
+﻿
+heritage_taelic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_taelic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_northmen = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_northmen
+		}
+	}
+	audio_parameter = european
+}
+h
+heritage_west_salic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_west_salic
+		}
+	}
+	audio_parameter = european
+}
+
