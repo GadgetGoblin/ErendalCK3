@@ -6,8 +6,10 @@
 	language = language_taelic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_zealous_people
+		tradition_maritime_mercantilism
 		tradition_fervent_temple_builders
+		traidtion_mystical_ancestors
+		tradition_seafarers
 
 	}
 	
@@ -31,8 +33,9 @@ taelic = {
 	language = language_taelic
 	martial_custom = martial_custom_male_only
 	traditions = {
+		tradition_maritime_mercantilism
 		tradition_legalistic
-		tradition_formation_fighting
+		tradition_seafarers
 	}
 	
 	name_list = name_list_taelic

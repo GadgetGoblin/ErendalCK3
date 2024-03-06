@@ -6,8 +6,7 @@
 	language = language_salic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_maritime_mercantilism
-		tradition_hussar
+		tradition_frequent_festivities
 	}
 	
 	dlc_tradition = {
@@ -30,7 +29,7 @@
 	}
 }
 
-czech = {
+crezin = {
 	color = czech
 	
 	ethos = ethos_bureaucratic

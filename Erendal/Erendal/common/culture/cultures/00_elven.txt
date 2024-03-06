@@ -1,0 +1,35 @@
+﻿taledorian = {
+	color = egyptian
+	# T_ 222 þ 254 Ð 208 T_ 240 E_
+	
+	ethos = ethos_ceremonious
+	heritage = heritage_elven
+	language = language_elven
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_charitable
+		tradition_philosopher_culture
+		tradition_refined_poetry
+		tradition_sacred_groves
+	}
+	
+
+
+
+	
+	name_list = name_list_elven
+	
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { fp2_iberian_building_gfx }
+	clothing_gfx = { fp2_iberian_clothing_gfx }
+	unit_gfx = { fp2_iberian_unit_gfx }
+	
+	ethnicities = {
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
+	}
+}
+
+

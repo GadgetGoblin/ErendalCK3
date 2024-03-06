@@ -1,0 +1,69 @@
+﻿kragondathi = {
+	color = saxon
+	# T_ 222 þ 254 Ð 208 T_ 240 E_
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_dwarven
+	language = language_dwarven
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metalworkers
+		tradition_mountain_homes
+		tradition_staunch_traditionalists
+		tradition_stalwart_defenders
+	}
+	
+
+	
+	
+
+	
+	name_list = name_list_dwarven
+	
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
+	ethnicities = {
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
+	}
+}
+
+ambronst = {
+	color = dutch
+	# T_ 222 þ 254 Ð 208 T_ 240 E_
+	
+	ethos = ethos_stoic
+	heritage = heritage_dwarven
+	language = language_dwarven
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_staunch_traditionalists
+		tradition_stalwart_defenders
+	}
+	
+
+	
+
+
+	
+	name_list = name_list_dwarven
+	
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
+	ethnicities = {
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
+	}
+}
+
